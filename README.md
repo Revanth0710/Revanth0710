@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Revanth Kamisetty 👋</h1>
 
-<h3 align="center">.NET Full-Stack Developer | React | Azure | Performance Optimization | CI/CD | Scalable Systems</h3>
+<h3 align="center">Full-Stack Developer| AI/ML | React | Azure | Performance Optimization | CI/CD | Scalable Systems</h3>
 
 ---
 
