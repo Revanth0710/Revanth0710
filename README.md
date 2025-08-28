@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 2+ years of experience building full-stack, enterprise-grade applications using **.NET Core**, **C#**, **React**, and **SQL Server**
+- 🧠 4+ years of experience building full-stack, enterprise-grade applications using **.NET Core**, **C#**, **React**, and **SQL Server**
 - 🌐 Proficient in developing secure and scalable **RESTful APIs**, applying **OOP** and **SOLID** principles
 - ☁️ Hands-on with **Azure App Services**, **Functions**, **Blob Storage**, and **CI/CD** using Azure DevOps & GitHub Actions
 - 🚀 Applied **Test-Driven Development (TDD)** using XUnit and Moq, achieving up to **85% unit-test coverage**
@@ -96,7 +96,7 @@
 
 ### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/revanthkamisetty)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/revanth-7100-k)
 
 ---
 
